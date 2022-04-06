@@ -1,0 +1,25 @@
+body{
+    background-color: #f5d9df;
+}
+
+#mainNavbar .navbar-brand{
+    color: red;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .nav-link:hover{
+    color: red;
+}
+section span{
+color: red;
+}
+
+#headingGroup{
+    font-weight: 100;
+    font-size: 2rem;
+    color: seashell;
+}
+.blurb{
+    color: sienna;
+}
